@@ -33,7 +33,11 @@ progress,
 video {
   display: inline-block;
   vertical-align: baseline;
-}
+}<div class="brand">Unchained Pizza</div>
+    <div class="address-bar">550 Adams Street | Quincy, MA 02169 | 617-657-6397 </div>
+    <div class="address-bar">960 Morrissey Boulevard | Dorchester, MA 02122 | 617-657-6397 </div>
+    <div class="address-bar">Take Out Hours | Monday - Saturday  10AM-10PM | Sunday: 10AM-9PM </div>
+    <div class="address-bar">Delievery Hours | Monday - Saturday  11AM-10PM | Sunday: 12PM-9PM | 10 Dollar Minimum | 1 Dollar Delievery Fee </div>
 audio:not([controls]) {
   display: none;
   height: 0;
