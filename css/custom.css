@@ -4,6 +4,7 @@
 
 #cateringtable {
   background-color: red;
+  overflow: auto;
 }
 
 th {
