@@ -36,9 +36,17 @@ hr {
     border-color: #999999;
 }
 
-.brand,
+.brand {
+    display: relative;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
 .address-bar {
-    display: none;
+    display: relative;
+    text-align: center;
+    color: white;
 }
 
 .navbar-brand {
