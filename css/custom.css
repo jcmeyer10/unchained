@@ -7,9 +7,14 @@
   overflow: auto;
 }
 
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
 th {
     border-bottom: 1px solid #ddd;
-    background-color: #FF4040;
+    background-color: #d01010;
     color: white;
     padding: 15px;
     text-align: center;
